@@ -6,7 +6,7 @@ import food_items from '../Food.js'
 import { datacontext } from '../Context/Usercontext.jsx'
 import { RxCross1 } from "react-icons/rx";
 import { useSelector } from 'react-redux'
-import Card2 from '../Components/card2.jsx'
+import Card2 from '../Components/Card2.jsx'
 import { toast } from 'react-toastify'
 
 const Home = () => {
